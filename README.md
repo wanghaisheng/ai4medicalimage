@@ -12,10 +12,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Debates between advantage and disvantage
 
-* [xxxx](http://xxxx.html)
+* [Exploring the ChestXray14 dataset: problems](https://lukeoakdenrayner.wordpress.com/2017/12/18/the-chestxray14-dataset-problems)
+* [ 吴恩达的最新研究是否严谨？Nature论文作者撰文质疑AI医疗影像研究现状 ](https://mp.weixin.qq.com/s/zc6o0sCtxQQaAvOMyMYSJg)
 
 
-## Books About Microservice
+
+## Books About ai4medicalimage
 
 * [xxxx](http://xxxx.html)
 
@@ -28,7 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Best research from Academic  
 
-#### research team website
+#### Research team website
 
 * [xxxx](http://xxxx.html)
 
@@ -48,11 +50,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [xxxx](http://xxxx.html)
 
 
-#### company website
+#### Company website
 
 * [xxxx](http://xxxx.html)
 
-#### kinds of products 
+#### Kinds of products 
 
 * [xxxx](http://xxxx.html)
 
